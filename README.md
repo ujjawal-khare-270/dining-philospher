@@ -1,1 +1,1 @@
-# dining-philospher
+# Dining Philosopher problem implementation in go
